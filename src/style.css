@@ -1,0 +1,23 @@
+.story-app {
+  max-width: (100) px;
+  margin: 250px auto;
+  padding: 20px;
+  border: 20px solid #080808;
+  border-radius: 30px;
+}
+
+.story-display {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 8px;
+  background: #6cf6ef;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.user-input {
+  width: 100%;
+  padding: 8px;
+  background: #ffffff;
+  font-style: italic;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
